@@ -20,7 +20,7 @@ Our target is on the 11th columns, which name as `Segmentation`. The dataset wil
 - Model Summary
 
 <p align="center">
-  <img src="Images/model summary.jpg" alt="Model Summary">
+  <img src="images/model summary.jpg" alt="Model Summary">
 </p>
 
 The model consist of 3 dense layer and 4 output one for each classes.
@@ -28,18 +28,18 @@ The model consist of 3 dense layer and 4 output one for each classes.
 - Model Architecture
 - 
 <p align="center">
-  <img src="Images/model.png" alt="Model">
+  <img src="images/model.png" alt="Model">
 </p>
 
 The model was called to train with an epochs of 100 and stop with the used of `early stopping` at 34 epochs. The accuracy and the loss are as follows:
 
 <p align="center">
-  <img src="Images/tensorboard.png" alt="TensorBoard">
+  <img src="images/tensorboard.png" alt="TensorBoard">
 </p>
 
 ## Model Evaluation Results
 <p align="center">
-  <img src="Images/model evaluation.jpg" alt="TensorBoard">
+  <img src="images/model evaluation.jpg" alt="TensorBoard">
 </p>
 
 ## Conclusion
