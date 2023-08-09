@@ -8,7 +8,7 @@ To develop a classifier model by using TensorFlow keras to identity the group of
 - Module: `Tensorflow`
 
 The dataset that used in this analysis can be obtain from [[Customer Segmentation
-Multiclass Classification]](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
+Multiclass Classification]](https://www.kaggle.com/datasets/kunalgupta2616/hackerearth-customer-segmentation-hackathon)
 
 ## About the Dataset:
 There datasets that used in this analysis
